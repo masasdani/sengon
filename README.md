@@ -1,7 +1,7 @@
 Sengon Project
 ==============
 
-This is an indonesian sentiment analysis project written in java, used for my thesis experiment.
+This is an indonesian sentiment analysis project written in java, used for my master degree experiment.
 this project build using maven and contains several libraries such as OpenNLP, Apache Lucene, and Language Detector
 
 Prerequisites:
@@ -19,9 +19,9 @@ clone and install this project to your system
 
 add this project as dependency of your project
 
-		<dependency>
-            <groupId>commons-cli</groupId>
-            <artifactId>commons-cli</artifactId>
-            <version>1.3.1</version>
+	<dependency>
+            <groupId>com.masasdani</groupId>
+            <artifactId>sengon</artifactId>
+            <version>0.0.1</version>
         </dependency>
 
